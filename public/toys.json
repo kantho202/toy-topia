@@ -1,0 +1,148 @@
+
+  [
+    {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving. Kids can build anything they imagine, from houses to vehicles.",
+    "pictureURL": "https://i.ibb.co.com/XZ2KSdNb/photo-1632304529453-f9338ac1c3e2.jpg",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Hot Wheels Mega Track Set",
+    "sellerName": "SpeedZone Toys",
+    "sellerEmail": "info@speedzonetoys.com",
+    "price": 59.99,
+    "rating": 4.5,
+    "availableQuantity": 120,
+    "description": "An action-packed Hot Wheels track with loops, jumps, and boosters. Perfect for kids who love racing and challenges.",
+    "pictureURL": "https://images.unsplash.com/photo-1757660201653-7534f63c79d2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+    "subCategory": "Vehicle Toys"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Barbie Dream House",
+    "sellerName": "DollWorld",
+    "sellerEmail": "support@dollworld.com",
+    "price": 89.99,
+    "rating": 4.8,
+    "availableQuantity": 45,
+    "description": "A three-story Barbie Dream House with furniture, lights, and sounds. Encourages imaginative role play for kids.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1744102094889-3de9a82242c5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1032",
+    "subCategory": "Dolls & Accessories"
+  },
+  {
+    "toyId": 4,
+    "toyName": "NERF Elite Blaster",
+    "sellerName": "ActionPlay Co.",
+    "sellerEmail": "sales@actionplayco.com",
+    "price": 39.99,
+    "rating": 4.4,
+    "availableQuantity": 90,
+    "description": "High-performance NERF blaster with 25 foam darts. Ideal for safe outdoor battles and team games.",
+    "pictureURL": "https://images.unsplash.com/photo-1741011831980-3a5cdf18fb17?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+    "subCategory": "Action Toys"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Wooden Train Set",
+    "sellerName": "TinyTracks",
+    "sellerEmail": "contact@tinytracks.com",
+    "price": 29.99,
+    "rating": 4.6,
+    "availableQuantity": 110,
+    "description": "Classic wooden train set with colorful engines and magnetic connectors. Great for toddlers to learn coordination.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1684980182025-cdc9629e32db?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=447",
+    "subCategory": "Educational Toys"
+  },
+  {
+    "toyId": 6,
+    "toyName": "RC Monster Truck",
+    "sellerName": "PowerToys",
+    "sellerEmail": "support@powertoys.com",
+    "price": 69.99,
+    "rating": 4.3,
+    "availableQuantity": 60,
+    "description": "Rechargeable remote-control monster truck with all-terrain tires and durable body design.",
+    "pictureURL": "https://i.ibb.co.com/rKqyhLGp/truck.jpg",
+    "subCategory": "Remote Control Toys"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Plush Teddy Bear",
+    "sellerName": "SoftHugs",
+    "sellerEmail": "hello@softhugs.com",
+    "price": 19.99,
+    "rating": 4.9,
+    "availableQuantity": 200,
+    "description": "Super soft and cuddly teddy bear that provides comfort and companionship for kids of all ages.",
+    "pictureURL": "https://i.ibb.co.com/5gMXzRHh/premium-photo-1681881783463-a0d380830718.jpg",
+    "subCategory": "Stuffed Animals"
+  },
+  {
+    "toyId": 8,
+    "toyName": "Magnetic Building Tiles",
+    "sellerName": "CreativeKids",
+    "sellerEmail": "sales@creativekids.com",
+    "price": 54.99,
+    "rating": 4.7,
+    "availableQuantity": 80,
+    "description": "Magnetic tiles that allow children to build colorful 3D structures while learning geometry and balance.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1663090894523-181824366445?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 9,
+    "toyName": "Play-Doh Mega Pack",
+    "sellerName": "ArtZone Toys",
+    "sellerEmail": "info@artzonetoys.com",
+    "price": 34.99,
+    "rating": 4.6,
+    "availableQuantity": 95,
+    "description": "A pack of 24 colorful Play-Doh tubs with creative tools to shape and sculpt anything kids imagine.",
+    "pictureURL": "https://images.unsplash.com/photo-1687054335839-115d2ea02507?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+    "subCategory": "Arts & Crafts"
+  },
+  {
+    "toyId": 10,
+    "toyName": "Star Wars Action Figure Set",
+    "sellerName": "GalaxyToys",
+    "sellerEmail": "sales@galaxytoys.com",
+    "price": 79.99,
+    "rating": 4.8,
+    "availableQuantity": 50,
+    "description": "Premium Star Wars figure collection featuring iconic characters with detailed armor and weapons.",
+    "pictureURL": "https://images.unsplash.com/photo-1647401657503-07cb342c27cd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=435",
+    "subCategory": "Action Toys"
+  },
+  {
+    "toyId": 11,
+    "toyName": "Puzzle World Map",
+    "sellerName": "BrainyToys",
+    "sellerEmail": "contact@brainytoys.com",
+    "price": 24.99,
+    "rating": 4.5,
+    "availableQuantity": 130,
+    "description": "Educational 200-piece world map puzzle that helps children learn geography while having fun.",
+    "pictureURL": "https://plus.unsplash.com/premium_photo-1675876726459-1e1aced048b8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=725",
+    "subCategory": "Educational Toys"
+  },
+  {
+    "toyId": 12,
+    "toyName": "Mini Drone for Kids",
+    "sellerName": "FlyHigh Tech",
+    "sellerEmail": "support@flyhightech.com",
+    "price": 99.99,
+    "rating": 4.4,
+    "availableQuantity": 35,
+    "description": "Easy-to-fly mini drone with one-button takeoff, altitude hold, and LED lights for fun night flights.",
+    "pictureURL": "https://images.unsplash.com/photo-1607764842555-cf8b3af063f5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
+    "subCategory": "Remote Control Toys"
+  }
+]
+
